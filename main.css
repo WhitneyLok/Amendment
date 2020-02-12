@@ -199,3 +199,58 @@ color:white;
   font-size:30px;
 
 }
+
+.key{
+  font-family: 'Indie Flower', cursive;
+  font-size:20px;
+}
+
+.sp{
+  color:white;
+   font-family: 'Permanent Marker', cursive;
+  font-size:20px;
+text-shadow: 2px 2px 2px #CE5937;
+}
+
+.s1{
+  float:left;
+  -moz-transform: rotate(353deg);
+-webkit-transform: rotate(353deg);
+-o-transform: rotate(353deg);
+-ms-transform: rotate(353deg);
+transform: rotate(353deg);
+}
+
+.ok{
+  float:left;
+  -moz-transform: rotate(353deg);
+-webkit-transform: rotate(353deg);
+-o-transform: rotate(353deg);
+-ms-transform: rotate(353deg);
+transform: rotate(353deg);
+}
+
+.ko{
+  float:right;
+  -moz-transform: rotate(7deg);
+-webkit-transform: rotate(7deg);
+-o-transform: rotate(7deg);
+-ms-transform: rotate(7deg);
+transform: rotate(7deg);
+}
+
+.pf{
+  width:400px;
+}
+
+.im{
+    font-family: 'Indie Flower', cursive;
+  font-size:30px;
+  color:white;
+}
+
+.freedom{
+  width:700px;
+  height:600px;
+  float:left;
+}
